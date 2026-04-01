@@ -1,0 +1,27 @@
+# Runtime Environment
+
+project_root: D:\Codex_project\2D-Lift-3D-Rule-codex-generate-3d-bounding-box-from-rgb-d-data
+python_executable: D:\Anaconda3\python.exe
+python_version: 3.9.7
+platform: Windows-10-10.0.26200-SP0
+conda_default_env: base
+cuda_visible_devices: unset
+
+## GPU
+NVIDIA GeForce RTX 3070 Laptop GPU, 566.07, 8192 MiB
+
+## Packages
+numpy: 1.20.3
+torch: 1.12.1
+torchvision: 0.13.1
+opencv-python: 4.6.0
+Pillow: 8.4.0
+segment-anything: unknown
+groundingdino: not-installed
+transformers: not-installed
+supervision: not-installed
+timm: not-installed
+
+## Grounded-Segment-Anything
+repo_exists: True
+repo_commit: 126abe633ffe333e16e4a0a4e946bc1003caf757

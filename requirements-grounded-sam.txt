@@ -1,0 +1,12 @@
+numpy
+Pillow
+opencv-python
+matplotlib
+pyyaml
+addict
+timm
+pycocotools
+supervision
+transformers>=4.40.0
+huggingface_hub
+safetensors
